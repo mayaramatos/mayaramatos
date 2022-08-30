@@ -1,16 +1,24 @@
-### Hi there 👋
+## Hi there, I'm Mayara! 👋 👩🏻‍💻
 
-<!--
-**mayaramatos/mayaramatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#
+🎓 Civil Engineering (UFPE)
 
-Here are some ideas to get you started:
+🎯 I’m currently learning Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<div style="display: inline_block"><br>
+
+![](https://camo.githubusercontent.com/f42365d3e6de5676457f64fc89eac4b208cae82263386004312252ea8bd0ac17/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d77686974653f7374796c653d706c6173746963266c6f676f3d507974686f6e)
+![](https://camo.githubusercontent.com/bd385db73a801ccd4f567347f16dc0a6bf380be629e50b2989f486ab305a6294/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d506f77657225323042492d77686974653f7374796c653d706c6173746963266c6f676f3d506f7765722d4249)
+![](https://camo.githubusercontent.com/2a19a8bb510cfa5a87b5e1ad072d9a9f6e5d67a47840be6fb8252ca1700c79ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4461746125323053747564696f2d77686974653f7374796c653d706c6173746963266c6f676f3d4461746153747564696f)
+![](https://camo.githubusercontent.com/bbf07c4c2bda3a8ffd91ff358f32fec6d883d119c5c8526f2d328799bc2fcb00/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d7953514c2d77686974653f7374796c653d706c6173746963266c6f676f3d6d7973716c)
+
+
+#
+
+
+<div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
+
+![](ld.jpg)
